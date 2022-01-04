@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ta2299
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning how to use predictive modelling in R
+- 🌱 I’m currently learning how to use predictive modelling in Python
 - 📫 How to reach me: tara.shingadia@yahoo.com
 
 <!---
